@@ -29,6 +29,8 @@
     ]
   },
   "globals": {
+    "userContactDoc": true,
+    "userSettingsDoc": true,
     "user": true,
     "Utils": true
   }
